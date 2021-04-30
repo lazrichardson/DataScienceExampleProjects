@@ -1,4 +1,4 @@
-# DataScienceExampleProjects
+# Data Science Example Projects
 
 This repository highlights my example projects for datascience.
 
